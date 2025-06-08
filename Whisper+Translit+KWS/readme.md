@@ -15,16 +15,7 @@ This project performs **automatic speech recognition (ASR)** on Hindi audio file
 
 ---
 
-## 📁 Folder Structure
 
-```
-project-root/
-├── main.py              # Main script (this code)
-├── hindi_transcriptions.txt  # Output file (auto-generated)
-└── storm_vad/           # Folder containing Hindi audio (.wav) files
-```
-
----
 
 ## 📦 Dependencies
 
@@ -34,7 +25,6 @@ Install dependencies via pip or conda:
 pip install torch soundfile transformers rapidfuzz Metaphone indicate
 ```
 
-Note: You may need to install [ffmpeg](https://ffmpeg.org/) separately if using audio files with different encodings.
 
 ---
 
@@ -49,12 +39,7 @@ Note: You may need to install [ffmpeg](https://ffmpeg.org/) separately if using 
 
 1. Place your Hindi `.wav` audio files in the `storm_vad` directory.
 2. Update the `audio_folder` path in `main.py` if necessary.
-3. Run the script:
-
-```bash
-python main.py
-```
-
+3. Run the jupyter script
 4. View results in `hindi_transcriptions.txt`.
 
 ---
@@ -85,14 +70,7 @@ For each `.wav` file:
 ## 📌 Notes
 
 - Audio must be mono and sampled at **16 kHz**. Other sampling rates will raise an error.
-- Empty or unreadable audio files are skipped with error logging.
 - Transliteration is performed **only** for Hindi (Devanagari) words.
-
----
-
-## 📄 License
-
-This project is for academic and research purposes. Attribution required if reused.
 
 ---
 
