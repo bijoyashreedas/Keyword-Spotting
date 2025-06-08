@@ -86,6 +86,10 @@ model.print_trainable_parameters()
 - Saves full final model.
 - Computes post-training WER again.
 
+(Note that training till higher epochs is increasing the WER, hence trained till only 100 steps)
+Refer the jupyter notebook for 100 STEPS
+
+
 ---
 
 This repository combines Whisper for Hindi speech transcription, Indic transliteration, and hybrid keyword spotting using fuzzy and phonetic matching.
