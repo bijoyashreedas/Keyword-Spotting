@@ -1,0 +1,80 @@
+
+🎧 File: enh_storm_vad163.100000MHz_30KHz_FM_17_Nov_2023_07_40_54_PM.wav
+📝 Hindi:  गलती मत करना है इसलिए 7 है, 4 कॉलिंग से रिपोर्ट आई किया 7 13 अब, 14 और 10 से लेना, 13 4 कॉलिंग 7, 4, 4 कॉलिंग 7 4 कॉलिंग 7, 4, 4 कॉलिंग 7 4 कॉलिंग 7, 4, 4 कॉलिंग 7 4 कॉलिंग 7, 4, 4 कॉलिंग 7 4, 4 कॉलिंग 7, 4, 4 कॉलिंग 7
+🔤 Latin: galti mat karna ha isliye 7 ha 4 coling se reported aai kiya 7 13 ab 14 or 10 se lena 13 4 coling 7, 4, 4 coling 7 4 coling 7, 4, 4 coling 7 4 coling 7, 4, 4 coling 7 4 coling 7, 4, 4 coling 7 4, 4 coling 7, 4, 4 coling 7
+🔎 Keywords found (≥85% similarity or phonetic match): report ~ reported (85.71428571428572%, string), calling ~ coling (100%, phonetic)
+
+🎧 File: enh_storm_vad350.358000MHz_240KHz_FM_18_Nov_2023_09_10_46_AM.wav
+📝 Hindi:  टू वन, have you been able to manage one more guide over? चल जिसे बट, बाके के लिए चल जाओ वर चल जाओ जरी आप एनी वेहिकल, like mine यू आ टेकिंग, उसके लावा कुछ और भी ले ले तू अपनी वाले लगा दे, वो दूसरे किसी को guide करने के लिए जाएगा and you remain exclusively for army commandant विल्को ओवर, 1542 राट ओवर आवर पास ओवर, आवर, I'm checking the 80, it's an over 1542 पर ओवर, 1542 पर ओवर, ओके 1542 पर, चल ज़री आपको come to point 222 ओवर, पूर्विल्को
+🔤 Latin: tu wan have you been able to manage one more guide over? chal jise but bake k lie chal jao war chal jao jari aap ani vehicl like mine yu aa teking uske lava kuchh or bhi le le tu apni wale laga de wo dusre kiss co guide karne k lie jayega and you remain exclusively for army commandant wilkow over 1542 rat over awr pass over aawar I'm checking the 80, it's an over 1542 par over 1542 par over okay 1542 par chal zari aapko come to point 222 over purvilko
+🔎 Keywords found (≥85% similarity or phonetic match): over ~ over (100.0%, string), guide ~ guide (100.0%, string), point ~ point (100.0%, string), vehicle ~ vehicl (92.3076923076923%, string), checking ~ checking (100.0%, string), commandant ~ commandant (100.0%, string), army ~ army (100.0%, string), wilko ~ wilkow (90.9090909090909%, string)
+
+🎧 File: enh_storm_vad350.358000MHz_240KHz_FM_18_Nov_2023_09_17_38_AM.wav
+📝 Hindi:  अपना टुमार्टर 18 ओवर टुमार्टर 18 154 जॉयल ओवर
+🔤 Latin: apna tumarter 18 over tumarter 18 154 joyle over
+🔎 Keywords found (≥85% similarity or phonetic match): over ~ over (100.0%, string)
+
+🎧 File: enh_storm_vad425.675MHz_240KHz_FM_18_Nov_2023_10_29_20_AM.wav
+📝 Hindi:  और फिर दिस्ट फ्लैग ओन लिए दिस द सौंबेर द दून स्टार्ट सर आपके एरियर एक जी ने वी बेंटेंड स्ट्रीटर को न चेंज दी ओरिजिनल प्लान ये उनको इंटलिव तो कुछ नहीं करेंगे तर वी स्टिक्ट दी प्लान को फिर दिस फिर देरो फालता और फिर
+🔤 Latin: or fir dist flag on lie dis da saunber da doon start sar aapke arier ac ji ne wea bentend striter co na change di orijinal plan ye unko intellive to kuchh nahin karenge tar wea stict di plan co fir dis fir dero falta or fir
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad430.285MHz_240KHz_FM_18_Nov_2023_10_24_44_AM.wav
+📝 Hindi:  ओके अरे फिर चला गया क्या कर रहे हो कपला डाल रहा है के इस पर भी अरे मैं जब बोलूँगा तब डालना ना हटाओ कपला अरे
+🔤 Latin: okay are fir chala gaya kya kar rahe ho kapala dal raha ha k is par bhi are main jab bolunga tab dalana na hatao kapala are
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad430.285MHz_240KHz_FM_18_Nov_2023_10_25_10_AM.wav
+📝 Hindi:  کیا کرنا بھائی
+🔤 Latin: کیا کرنا بھائی
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad430.3MHz_15KHz_FM_17_Nov_2023_07_13_56_PM.wav
+📝 Hindi:  आप लोगों पहुँचने के लिए ताँच मिनट में पुछाएं का आपके पास
+🔤 Latin: aap logon pahunchane k lie tanch minutes mein puchhaein ka aapke pass
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad444.505000MHz_240KHz_FM_18_Nov_2023_09_30_31_AM.wav
+📝 Hindi:  जैसे ही उसकी कारवे खत्म होगी थोड़े दिल बेट करेगा और थोड़े दिल बाद वहाँ से जहाँ डिस्प्रेट चल रहा है वहाँ बाइक लगा देगा ओवर रोजर
+🔤 Latin: jaise h uski karve khatm hogi thode dil bet karega or thode dil bad wahha se jahan disprate chal raha ha wahha bike laga dega over roser
+🔎 Keywords found (≥85% similarity or phonetic match): over ~ over (100.0%, string)
+
+🎧 File: enh_storm_vad444.5MHz_15KHz_FM_18_Nov_2023_09_02_28_AM.wav
+📝 Hindi:  लेकर आईए आटाइट लेकर आते हैं बाइक और अब रॉड आप
+🔤 Latin: laker aa auttait laker aate ha bike or ab rod aap
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad444.5MHz_30KHz_FM_17_Nov_2023_11_38_05_AM.wav
+📝 Hindi:  Roger, roger.
+🔤 Latin: Roger, roger.
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad444.5MHz_30KHz_FM_17_Nov_2023_11_40_34_AM.wav
+📝 Hindi:  Welcome.
+🔤 Latin: Welcome.
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad446.05MHz_15KHz_FM_17_Nov_2023_08_51_27_PM.wav
+📝 Hindi:  प्रति पास रहे हैं और उसका मैंने बना कर देगी और बना कर रखा है
+🔤 Latin: prati pass rahe ha or uska mane bana kar degi or bana kar rakha ha
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad446.05MHz_15KHz_FM_17_Nov_2023_08_53_48_PM.wav
+📝 Hindi:  I'm sorry.
+🔤 Latin: I'm sorry.
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad446.05MHz_15KHz_FM_17_Nov_2023_08_58_06_PM.wav
+📝 Hindi:  What?
+🔤 Latin: What?
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad446.05MHz_15KHz_FM_17_Nov_2023_09_12_36_PM.wav
+📝 Hindi:  अपने बैटरी में
+🔤 Latin: apne battery mein
+🔎 Keywords found (≥85% similarity or phonetic match): None
+
+🎧 File: enh_storm_vad450.000000MHz_30KHz_FM_16_Nov_2023_07_40_10_PM.wav
+📝 Hindi:  f**k సావి స్టాట్నిగా ఉరా ఏరలేస్త
+🔤 Latin: f**k సావి స్టాట్నిగా ఉరా ఏరలేస్త
+🔎 Keywords found (≥85% similarity or phonetic match): None
